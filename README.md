@@ -25,11 +25,11 @@ https://www.linkedin.com/in/christopher-dorset-37b614223/
                     cerr << "File could not be opened";
                     exit(1);
                 }
-                cout << "Enter The Name\n";
+                cout << "Enter the Name\n";
                 cin >> detailOut.name;
-                cout << "Enter The Account Number\n";
+                cout << "Enter the Account Number\n";
                 cin >> detailOut.accountNum;
-                cout << "Enter The Balance\n";
+                cout << "Enter the Balance\n";
                 cin >> detailOut.balance;
                 outfile << detailOut.name << endl << detailOut.accountNum << endl << detailOut.balance << endl;
                 cout << "Do you want to enter more details?(Y/N)\n";
