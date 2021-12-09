@@ -1,5 +1,5 @@
 # Breakfast
-nothing.
+nothing
 
 # LinkedIn account
 https://www.linkedin.com/in/christopher-dorset-37b614223/
